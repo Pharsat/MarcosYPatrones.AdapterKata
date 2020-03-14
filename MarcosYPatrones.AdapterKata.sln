@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcosYPatrones.AdapterKata", "MarcosYPatrones.AdapterKata\MarcosYPatrones.AdapterKata.csproj", "{B0EFDD4B-EF77-40BF-8FB7-10255733F9D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcosYPatrones.AdapterKataTests", "MarcosYPatrones.AdapterKataTests\MarcosYPatrones.AdapterKataTests.csproj", "{AEF6AE71-29BA-4E57-AB91-896714A78F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0EFDD4B-EF77-40BF-8FB7-10255733F9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EFDD4B-EF77-40BF-8FB7-10255733F9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EFDD4B-EF77-40BF-8FB7-10255733F9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EFDD4B-EF77-40BF-8FB7-10255733F9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF6AE71-29BA-4E57-AB91-896714A78F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF6AE71-29BA-4E57-AB91-896714A78F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF6AE71-29BA-4E57-AB91-896714A78F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF6AE71-29BA-4E57-AB91-896714A78F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969B8304-00BB-47F5-BDF3-BC1F2A15D4C6}
+	EndGlobalSection
+EndGlobal
